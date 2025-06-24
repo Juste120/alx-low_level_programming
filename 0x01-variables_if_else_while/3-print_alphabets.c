@@ -11,7 +11,6 @@ int main(void)
 	/* code to implement alphabet in lowercase*/
 	
 	c = 'a';
-
 	while (c <= 'z')
 	{
 		putchar(c);
@@ -21,13 +20,11 @@ int main(void)
 	/* code to implement alphabet in uppercase*/
 
 	c = 'A';
-
-       	while (c <= 'Z')
+	while (c <= 'Z')
 	{
 		putchar(c);
 		c++;
 	}
-
 	putchar('\n');
 	return (0);
 }
