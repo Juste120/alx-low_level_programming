@@ -2,7 +2,7 @@
 /**
  * main - Entry point of the program,prints the alphabet in lowercase
  *
- * Return; Always 0 (Success) to indicate the program ended correctly
+ * Return: Always 0 (Success) to indicate the program ended correctly
  */
 int main(void)
 {
