@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - Entry point of the program,prints all numbers with putchar and
- * 	The first 6 letters lowercase alphabet
+ * the first 6 letters lowercase alphabet
  *
  * Return: Always 0 (Success)
  */
